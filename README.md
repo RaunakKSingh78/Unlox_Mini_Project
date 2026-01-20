@@ -1,2 +1,2 @@
-# <u>Mini Project</u>
+# <u>*Mini Project*</u>
                   -by Raunak Kumar Singh
